@@ -18,18 +18,6 @@
 
 ---
 
-## 📋 Repository Info
-
-### **About** 🔐
-**Interactive authentication methods simulator** based on IBM IT Security curriculum. Master enterprise authentication protocols through hands-on visual simulations: explore RADIUS, TACACS+, Kerberos, and SSO architectures, observe packet flows, and understand how Active Directory integration secures modern networks — all in your browser. No installation required. 🖥️
-
-### **Website** 🌐
-https://willie-conway.github.io/VAULT/
-
-### **Topics** 🏷️
-`authentication` `security` `cybersecurity` `radius` `tacacs` `kerberos` `sso` `active-directory` `network-security` `ibm` `it-security` `education` `simulator` `interactive` `enterprise-security` `aaa-protocols` `identity-management` `access-control` `group-policy` `ticket-authentication`
-
----
 
 <video controls src="Screenshots/VAULT.mp4" title="VAULT"></video>
 
