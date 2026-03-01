@@ -1,3 +1,7 @@
+
+
+![alt text](Screenshots/Logo_Vault.png)
+
 # 🏛️ VAULT — Authentication Methods Simulator
 
 ![VAULT Simulator](https://img.shields.io/badge/VAULT-Authentication_Simulator-8b5cf6?style=for-the-badge&logo=letsencrypt&logoColor=white)
@@ -49,6 +53,8 @@ https://willie-conway.github.io/VAULT/
 - **AAA triad demonstration**: Authentication, Authorization, Accounting
 - **Realistic attributes**: Access-Request, Access-Accept, Framed-IP, Session-Timeout
 
+![alt text](<Screenshots/RADIUS Authentication Flow.png>)
+
 ### 🎫 **Kerberos Ticket Exchange Lab** (Module 03)
 - **Complete Kerberos workflow** with all 4 components:
   - 💻 Client workstation
@@ -59,6 +65,8 @@ https://willie-conway.github.io/VAULT/
 - **Live ticket contents** showing encrypted attributes
 - **Key security insight**: Passwords never cross the network!
 - **TGT and Service Ticket** lifecycle demonstration
+
+![alt text](<Screenshots/Kerberos Ticket Exchange Lab.png>)
 
 ### 🔑 **SSO with Kerberos Demo** (Module 04)
 - **Real-world SSO simulation** with user "Sarah Chen"
@@ -71,6 +79,9 @@ https://willie-conway.github.io/VAULT/
 - **Live domain controller logs** tracking authentication events
 - **TGT visualization** showing active Kerberos ticket
 - **Visual feedback**: Resources unlock automatically after authentication
+
+![alt text](<Screenshots/SSO with Kerberos Simulation.png>)
+
 
 ### 🏛️ **Kerberos + Active Directory Integration** (Module 05)
 - **Complete domain controller simulation** with:
@@ -85,6 +96,8 @@ https://willie-conway.github.io/VAULT/
   - 📊 Audit Logging (all login events tracked)
   - 🔐 MFA Enforcement (smart card/TOTP for privileged accounts)
 - **Live event log** showing domain controller activities
+
+![alt text](<Screenshots/Active Directory Integration.png>)
 
 ### 📊 **Knowledge Assessment Quiz** (Module 06)
 - **7 comprehensive questions** covering all protocols
