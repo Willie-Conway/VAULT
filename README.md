@@ -31,6 +31,8 @@ https://willie-conway.github.io/VAULT/
 
 ---
 
+<video controls src="Screenshots/VAULT.mp4" title="VAULT"></video>
+
 ## ✨ Key Features
 
 ### 📚 **Comprehensive Protocol Library** (Module 01)
