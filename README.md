@@ -1,8 +1,8 @@
 
 
-![alt text](Screenshots/Logo_Vault.png)
-
 # 🏛️ VAULT — Authentication Methods Simulator
+
+![alt text](Screenshots/Logo_Vault.png)
 
 ![VAULT Simulator](https://img.shields.io/badge/VAULT-Authentication_Simulator-8b5cf6?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
